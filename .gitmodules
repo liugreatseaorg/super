@@ -1,0 +1,3 @@
+[submodule "submod/project1"]
+	path = submod/project1
+	url = https://github.com/liugreatseaorg/project1.git
